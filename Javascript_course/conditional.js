@@ -21,3 +21,4 @@
 Num = 777;
 if (Num >= 100 && Num <= 999) console.log("3-Digit number");
 else console.log("Not a 3-digit number");
+
