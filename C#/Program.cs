@@ -1,9 +1,3 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
 namespace Hello
 {
     internal class Program
@@ -178,11 +172,13 @@ namespace Hello
             //Greet("Arvind");
             //Console.WriteLine(avg(5, 5, 5));
             //Oops in C#:
-            //Player tommy = new Player();
-            //Console.WriteLine(tommy.health);
-            //tommy.setHealth(50);
-            //Console.Write(tommy.health);
-            //Console.ReadLine();
+            // Player tommy = new Player();
+            // Console.WriteLine(tommy.health);
+            // tommy.setHealth(50);
+            // Console.Write(tommy.health);
+            Voting game=new();
+            game.election();
+            // Console.ReadLine();
         }
         // Methods or Functions(fun):
         //static float avg(int x, int y,int z)
