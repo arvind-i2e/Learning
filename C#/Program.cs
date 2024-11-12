@@ -89,7 +89,7 @@ namespace Hello
             //Console.WriteLine(b);
             //Console.WriteLine(z);
             // String methods:
-            string hello = "Hello universe I'm Arvind";
+            //string hello = "Hello universe I'm Arvind";
             //Console.WriteLine(hello.Length);
             //Console.WriteLine(hello.ToLower());
             //Console.WriteLine(hello.ToUpper());
@@ -97,10 +97,110 @@ namespace Hello
             //string name=Console.ReadLine();
             //string bucks=Console.ReadLine();
             //Console.WriteLine($"your name is {name} and you will get this much bucks {bucks}.");//string interpolation.
-            Console.WriteLine(hello.IndexOf("l"));
-            Console.WriteLine(hello.Substring(6));
-            Console.WriteLine("hello\"Universe");//Escape Sequence Character.
-            Console.ReadLine();
+            //Console.WriteLine(hello.IndexOf("l"));
+            //Console.WriteLine(hello.Substring(6));
+            //Console.WriteLine("hello\"Universe");(Escape Sequence Character).
+            //Conditional statement(if-else):
+            //int age = 56;
+            //if (age > 18)
+            //{
+            //    Console.WriteLine("You can drive");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("You can't drive");
+            //}
+            //Console.WriteLine("Enter your age:");
+            //string agestr=Console.ReadLine();
+            //int age=Convert.ToInt32(agestr);
+            //if (age < 2)
+            //{
+            //    Console.WriteLine("you are just born");
+            //}
+            //else if (age < 10)
+            //{
+            //    Console.WriteLine("complete your high school");
+            //}
+            //else if (age < 18)
+            //{
+            //    Console.WriteLine("you are below 18");
+            //}
+            //else if (age < 75)
+            //{
+            //    Console.WriteLine("you can drive");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("you can not drive");
+            //}
+            //Switch-case
+            //switch (age)
+            //{
+            //    case 18:
+            //        Console.WriteLine("Wait for an year");
+            //        break;
+
+            //    case 20:
+            //        Console.WriteLine("You are 20");
+            //        break;
+
+            //    default:
+            //        Console.WriteLine("Enjoy");
+            //        break;
+
+
+            //}
+            //Loops in C#: 1.While-loop 2.Do-while 3.For-loop
+            //int i = 0;
+            //while (i < 5)
+            //{
+            //    Console.WriteLine(i+1);
+            //    i++;
+            //}
+            //do
+            //{
+            //    Console.WriteLine(i + 2);
+            //    i++;
+            //} while (i < 5);
+            //for (int i = 0; i < 5; i++) {
+            //    Console.WriteLine(i+1);
+            //}
+            //break and continue(break leave entire loop where continue leave particular iteration).
+            //for (int i = 0; i < 6; i++)
+            //{
+            //    if (i == 0)
+            //    {
+            //        continue;
+            //    }
+            //    Console.WriteLine(i+1);
+            //}
+            //Method call up.
+            //Greet("Arvind");
+            //Console.WriteLine(avg(5, 5, 5));
+            //Oops in C#:
+            //Player tommy = new Player();
+            //Console.WriteLine(tommy.health);
+            //tommy.setHealth(50);
+            //Console.Write(tommy.health);
+            //Console.ReadLine();
         }
+        // Methods or Functions(fun):
+        //static float avg(int x, int y,int z)
+        //{
+        //    float sum=x+y+z;
+        //    return sum / 3;
+        //}
+        //method overloading
+        //static float avg(int x, int y)
+        //{
+        //    float sum = x + y;
+        //    return sum / 2;
+        //}
+
+        //static void Greet(String name)
+        //{
+        //    Console.WriteLine($"Good morning {name}");
+        //}
+
     }
 }
