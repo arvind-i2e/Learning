@@ -14,7 +14,7 @@ class Voting{
             Console.WriteLine("Looks like you are not old enough to vote yet");
             return 0;
         }
-        for(int i=0;i<=eligibleYears;i++){
+        for(int i=1;i<=eligibleYears;i++){
             if(i%4==0){
                 presidents++;
             }
