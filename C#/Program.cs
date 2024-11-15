@@ -1,3 +1,5 @@
+using System.Diagnostics;
+
 namespace Hello
 {
     internal class Program
@@ -176,8 +178,13 @@ namespace Hello
             // Console.WriteLine(tommy.health);
             // tommy.setHealth(50);
             // Console.Write(tommy.health);
-            Voting game=new();
-            game.election();
+            // Voting game=new();
+            // game.election();
+            // emailValidation user=new();
+            // user.Validation("Arvind@gmail");
+            // Url test=new();
+            // test.UrlValidation("www.w3schools.com/cs/cs_arrays.php");
+            // pattern();
             // Console.ReadLine();
         }
         // Methods or Functions(fun):
@@ -197,6 +204,14 @@ namespace Hello
         //{
         //    Console.WriteLine($"Good morning {name}");
         //}
+        // static void pattern(){
+        //     for(int i=0;i<6;i++){
+        //         for(int j=0;j<=i;j++){
+        //             Console.Write("*");
+        //         }
+        //         Console.WriteLine();
+        //     }
+        // }
 
     }
 }
