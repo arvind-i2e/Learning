@@ -1,11 +1,27 @@
 using System.Diagnostics;
+using System.Runtime.InteropServices;
 
 namespace Hello
 {
     internal class Program
     {
+        // public class Person{
+        //     public string name="";
+        //     public void Introduce(string to){
+        //         Console.WriteLine("Hi {0}, I am {1}",to,name);
+        //     }
+        //     //Creating a personal Object
+        //     public static Person Parse(string str){
+        //         var person=new Person();
+        //         person.name=str;
+        //         return person;
+        //     }
+        // }
         static void Main(string[] args)
         {
+            // var person=new Person();
+            // var person=Person.Parse("Arvind");//personal object for accessing static member using class.
+            // person.Introduce("Elliot");
             // This is my first c# Programe.
             // int num = 6;
             // String inp = Console.ReadLine();
@@ -186,7 +202,19 @@ namespace Hello
             // test.UrlValidation("www.w3schools.com/cs/cs_arrays.php");
             // pattern();
             // Console.ReadLine();
+            // IShape circle = new Circle(5);
+            // IShape rectangle=new Rectangle{Length = 4,Breadth=5};
+            // calculateArea(circle); //Single responsibilty principle
+            // new Printer().Print(circle); //Single responsibilty principle
+            // var customer=new Customer(1,"Elliot");
+            // Console.WriteLine(customer.Id);
+            // Console.WriteLine(customer.Name);
+            var person=new Person(101){FirstName="Elliot",LastName="Alderson"};
+            Console.WriteLine("ID: {0},Firstname: {1},LastName:{2}",person.Id,person.FirstName,person.LastName);
         }
+        // private static void calculateArea(IShape circle){
+        //     Console.WriteLine(circle.getArea());
+        // }
         // Methods or Functions(fun):
         //static float avg(int x, int y,int z)
         //{
