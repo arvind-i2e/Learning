@@ -11,6 +11,7 @@ public class Person{
         this.Id=id;
     }
     public Person(int id,string firstName)
+    :this(id)
     {
         this.FirstName=firstName;
     }
