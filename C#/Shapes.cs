@@ -1,6 +1,6 @@
 using System.Net.NetworkInformation;
 using System.Runtime.InteropServices;
-public interface IShape{
+public interface IShape{  // single responsibility and open and close principle.
     double getArea();
 }
 public class Circle:IShape
