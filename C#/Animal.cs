@@ -8,7 +8,7 @@ public interface IAnimal{
 //     public string? Name {get;set;}
 //     void Makesound2();
 // // }
-// class I : IAnimal, IAnimal2
+// class I : IAnimal, IAnimal2    // here we r implementing inheritance(multiple)
 // {
 //     public string? Name { get;set;}
 
@@ -20,11 +20,11 @@ public interface IAnimal{
 //     {
 //     }
 // }
-public abstract class Animal:IAnimal{
+public abstract class Animal:IAnimal{               //since we are using abstract class we r implementing abstraction process.Similarly for the interface also.... 
 public string? Name{get;set;}
 public abstract void Makesound();
 }
-public class Dog : Animal
+public class Dog : Animal                          // here we r implementing inheritance(single one)
 {
     public override void Makesound()
     {

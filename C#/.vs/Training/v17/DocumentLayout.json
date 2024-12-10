@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\arvind.singh\\OneDrive - I2e Consulting\\Desktop\\Learning\\C#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD62FA31-CED9-41A2-83A6-92D5C657D072}|Training.csproj|c:\\users\\arvind.singh\\onedrive - i2e consulting\\desktop\\learning\\c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD62FA31-CED9-41A2-83A6-92D5C657D072}|Training.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\arvind.singh\\OneDrive - I2e Consulting\\Desktop\\Learning\\C#\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\arvind.singh\\OneDrive - I2e Consulting\\Desktop\\Learning\\C#\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAPwAAAAAAAAAAAAAAA8BAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T07:37:47.148Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
