@@ -85,8 +85,8 @@
 
 # app = Flask(__name__)
 
-# SERPAPI_KEY = "7532820f4b2dbf5ff871c1a8dafe11e40e6c83b949ad0f6d7e7f2a16f823dce2"
-# TWITTER_BEARER_TOKEN = "AAAAAAAAAAAAAAAAAAAAAKKTyQEAAAAAZlhUygb4%2Fh4B2ObqNe4wsKQfdNA%3DSaQPUHGV5yAMauHautvF3h9bueWzwRLOhUf3NpLXWOFGG2VL4S"
+# SERPAPI_KEY = "your_key"
+# TWITTER_BEARER_TOKEN = "your token"
 
 # def scrape_wikipedia_kol(name):
 #     url = f"https://en.wikipedia.org/wiki/{name}"
@@ -244,7 +244,7 @@ from bs4 import BeautifulSoup
 from flask import Flask, jsonify
 from scholarly import scholarly
 import os
-TWITTER_BEARER_TOKEN = "AAAAAAAAAAAAAAAAAAAAAKKTyQEAAAAA7tWuJ9XveoCIH4AxvVjoOCoPrl4%3DG77dswnbc2ZhYaEFaAaNo36FDLZuZtI6IWGIjYlqXkw2hWulLU"
+TWITTER_BEARER_TOKEN = "your_token"
 
 def scrape_wikipedia_kol(name):
     url = f"https://en.wikipedia.org/wiki/{name.replace(' ', '_')}"
