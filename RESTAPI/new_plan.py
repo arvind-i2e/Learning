@@ -37,7 +37,7 @@ def fetch_pubmed_affiliation(kol_name):
 
 # Function to fetch KOL data from Google Knowledge Graph API
 def fetch_google_kg(kol_name):
-    GOOGLE_KG_API_KEY = "AIzaSyCdKpGJEX9-JwdVyxhlULGmasuMv45BR0k"
+    GOOGLE_KG_API_KEY = "your_key"
     google_kg_url = f"https://kgsearch.googleapis.com/v1/entities:search?query={kol_name.replace(' ','%20')}&key={GOOGLE_KG_API_KEY}&limit=1&indent=True"
     response = fetch_api_data(google_kg_url)
     
