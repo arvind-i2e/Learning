@@ -1,7 +1,7 @@
 # import requests
 # import time
 
-# BEARER_TOKEN = "AAAAAAAAAAAAAAAAAAAAAKKTyQEAAAAAsY%2Fhl506XsfvoYo8hz4UoJAV08k%3DrJnzAmHvz5YKRSpgRuQqzKRM0Nc7RJIXWatgYDgiMfEwZcSQYM"  # Replace with your actual Bearer Token
+# BEARER_TOKEN = "Your bearer token"  # Replace with your actual Bearer Token
 
 # def get_user_id(username):
 #     url = f"https://api.twitter.com/2/users/by/username/{username}"
