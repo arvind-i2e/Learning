@@ -1,0 +1,11 @@
+KOL Name: John LaMattina
+
+PubMed Data:
+[{'title': 'Comparing High- and Low-Model for End-Stage Liver Disease Living-Donor Liver Transplantation to Determine Clinical Efficacy: A Systematic Review and Meta-Analysis (CHALICE Study).', 'pub_date': '2023 Sep 6'}, {'title': 'hEPCR.hTBM.hCD47.hHO-1 with donor clodronate and DDAVP treatment improves perfusion and function of GalTKO.hCD46 porcine livers perfused with human blood.', 'pub_date': '2022 Mar'}, {'title': 'Ischemic Cholangiopathy Postdonation After Circulatory Death Liver Transplantation: Donor Hepatectomy Time Matters.', 'pub_date': '2022 Jan'}, {'title': 'Acute on Chronic Liver Failure: Factors Associated With Transplantation.', 'pub_date': '2021 Dec'}, {'title': 'Humanized von Willebrand factor reduces platelet sequestration in ex vivo and in vivo xenotransplant models.', 'pub_date': '2021 Nov'}]
+
+Wikipedia Data:
+No Wikipedia page found.
+
+Google Scholar Data:
+No Google Scholar profile found.
+

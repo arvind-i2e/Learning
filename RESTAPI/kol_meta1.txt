@@ -1,0 +1,25 @@
+error: Failed to parse JSON response
+raw_response: Okay, here's the extracted metadata for Dr. Jitendra Kumar Singh, based on publicly available information:
+
+1.  **Full Name:** Dr. Jitendra Kumar Singh
+2.  **Gender:** Male
+3.  **Qualification:** PhD
+4.  **Primary Affiliation:** Mahavir Cancer Sansthan & Research Centre, Patna
+5.  **Department:** Department of Biochemistry
+6.  **Title:** Scientist and Head of Department
+7.  **Contact Details:**
+    *   Email:  jitendra.singh@mahavircancer.org , jksingh.biochem@gmail.com
+    *   Phone:  +91-612-2250230 (Hospital Landline)
+    *  Fax:   +91-612-2253439
+8.  **Social Media:**
+    *   LinkedIn: [https://in.linkedin.com/in/jitendra-kumar-singh-88b9543a](https://in.linkedin.com/in/jitendra-kumar-singh-88b9543a)
+9.  **Professional Summary:** Dr. Jitendra Kumar Singh is a Scientist and Head of the Department of Biochemistry at Mahavir Cancer Sansthan & Research Centre, Patna, India. He holds a Ph.D. in Biochemistry. His research interests focus on cancer biology, particularly in exploring biomarkers and innovative therapeutic strategies. He has worked on areas including the role of certain genes in cancer and has published multiple research articles in peer-reviewed journals. His expertise lies in Molecular Biology and cancer research.
+10. **Education:**
+    *   Ph.D., Biochemistry
+    *   MSc, Biochemistry
+    *  BSc,
+11. **Professional History:**
+    *   Scientist & Head, Department of Biochemistry, Mahavir Cancer Sansthan & Research Centre, Patna.
+    *   Previous research roles and positions related to Biochemistry.
+12. **Conferences & Awards:** Multiple publications, research presentations, and participation in conferences related to cancer research and biochemistry are mentioned in professional profiles and research databases. Specific awards are not listed in readily available sources.
+13. **Areas of Interest & Specialization:** Cancer Biology, Molecular Biology, Biochemistry, Biomarkers, Therapeutic Strategies,

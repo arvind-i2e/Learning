@@ -1,0 +1,64 @@
+Key Opinion Leader: Odlander B
+
+Affiliations:
+- Department of Physiological Chemistry, Karolinska Institutet, Stockholm, Sweden.
+- Department of Medical Biochemistry and Biophysics, Karolinska Institutet, Stockholm, Sweden.
+- Medical Nobel Institute for Biochemistry, Karolinska Institutet, Stockholm, Sweden.
+- Dept. of Physiological Chemistry, Karolinska Institutet, Stockholm, Sweden.
+
+Co-Authors:
+- D Steinhilber
+- M Aguilar-Santelises
+- M Björkholm
+- G Runarsson
+- J Haeggström
+- H Jörnvall
+- J Z Haeggström
+- P Biberfeld
+- M Jondal
+- M Björnstedt
+- P Shaskin
+- S Feltenmark
+- P J Jakobsson
+- A Rosén
+- S Kuprin
+- A Wetterholm
+- T Bergman
+- P Larsson
+- B Odlander
+- B Samuelsson
+- H E Claesson
+- A Holmgren
+- O Rådmark
+
+Publication History:
+Title: Selenite incubated with NADPH and mammalian thioredoxin reductase yields selenide, which inhibits lipoxygenase and changes the electron spin resonance spectrum of the active site iron.
+Abstract: Selenite and selenodiglutathione (GS-Se-SG) efficiently inhibited 5-lipoxygenase activity in sonicates of human monoclonal B-lymphocytes. The apparent IC50 of GS-Se-SG was 0.5 microM. The inhibitory effect of these compounds was observed within 10 min of incubation. In order to elucidate if the mechanism of inhibition by these compounds was result of direct interference with lipoxygenase or indirectly mediated by cellular factors, pure 15-lipoxygenase from soybeans was used as a model system for enzyme assays and electron spin resonance (ESR) measurements. Incubation of 15-lipoxygenase with a mixture of human placenta thioredoxin reductase (TR) or calf-thymus TR, selenite, and NADPH blocked the activity of the enzyme. Neither TR and NADPH nor selenite inhibited soybean lipoxygenase when incubated separately. These results suggest that selenite must be reduced to selenide in order to inhibit 5- and 15-lipoxygenase activities. Preincubation anaerobically of 15-lipoxygenase with chemically generated selenide (6 microM) resulted in a strong inhibition of activity, in assays with arachidonic acid in the presence of oxygen. In contrast, selenide exposed to air prior to preincubation did not inhibit the enzyme. Since selenide is known to be efficiently oxidized by oxygen and to form elemental selenium the results evidence that selenide was the inhibitor of lipoxygenase activity in the anaerobic preincubations. After incubation with TR, NADPH, and selenite or with chemically generated selenide, the ESR spectrum of 15-lipoxygenase changed: the dominant axial component with a peak at g = 6.1 decreased, and a rhombic form with a feature at g = 4.28 grew. The results suggest that selenide produced by the reduction of selenite reduces the active site iron to the ESR invisible state and changes the ligation geometry of the oxidized form.
+--------------------------------------------------------------------------------
+Title: Studies on the regulation and localization of 5-lipoxygenase in human B-lymphocytes.
+Abstract: Stimulated B-lymphocytes, isolated from patients with chronic lymphocytic leukemia of B-cell type (B-CLL cells) or from human tonsils, produced similar amounts of leukotriene (LT) B4 and 5-hydroxyeicosatetraenoic acid (5-HETE) as polymorphonuclear granulocytes. Unlike intact granulocytes or monocytes, human B-lymphocytes require calcium ionophore, exogenous arachidonic acid and an oxidative environment in order to produce 5-lipoxygenase products. Several thiol-reactive compounds such as N-ethylmaleimide, methyl methanethiosulfonate, azodicarboxylic acid bis[dimethylamide] (diamide) as well as hydrogen peroxide were all found to stimulate cellular leukotriene biosynthesis. Reverse transcriptase (RT)-PCR analysis demonstrated the expression of 5-lipoxygenase, 5-lipoxygenase-activating protein (FLAP) and LTA4 hydrolase mRNA in B-CLL cells. Western blot analysis demonstrated a band corresponding to the molecular size of FLAP in the B-CLL cell membrane. Furthermore, MK886, the FLAP-binding cellular leukotriene biosynthesis inhibitor, reduced both LTB4 and 5-HETE formation. Immunocytochemistry showed that 5-lipoxygenase was mainly localized in the nuclei of non-activated B-CLL cells, tonsillar B-lymphocytes and monoclonal B-cells. In contrast, neither human peripheral T-lymphocytes nor Jurkat cells were stained. These results suggest that 5-lipoxygenase and its products function in the nucleus of B-lymphocytes.
+--------------------------------------------------------------------------------
+Title: The 5-lipoxygenase pathway in normal and malignant human B lymphocytes.
+Abstract: Abstract not available
+--------------------------------------------------------------------------------
+Title: Expression of 5-lipoxygenase and biosynthesis of leukotriene B4 in human monomorphonuclear leukocytes.
+Abstract: Abstract not available
+--------------------------------------------------------------------------------
+Title: On the expression and regulation of 5-lipoxygenase in human lymphocytes.
+Abstract: The expression of arachidonate 5-lipoxygenase (arachidonate:oxygen 5-oxidoreductase, EC 1.13.11.34) and the 5-lipoxygenase-activating protein (FLAP) genes in human tonsillar B cells and lymphoblastoid B-cell lines was demonstrated at the transcriptional level by reverse transcription-PCR analysis. Also, five lymphoblastoid T-cell lines were investigated and found to express the FLAP gene but not the 5-lipoxygenase gene, suggesting that the transcriptional regulation of these two genes is different. Western blot analysis of the cytosolic proteins from a lymphoblastoid B-cell line with an antiserum raised against purified human leukocyte 5-lipoxygenase revealed an immunoreactive band that comigrated with recombinant human 5-lipoxygenase. Intact B cells produced very low amounts of leukotriene B4 and 5-hydroxyeicosatetraenoic acid upon stimulation with the calcium ionophore A23187 and arachidonic acid, in comparison to the amounts formed by sonicates of these cells. However, preincubation of intact lymphoblastoid B cells with the glutathione-depleting agents azodicarboxylic acid bis(dimethylamide) or 1-chloro-2,4-dinitrobenzene prior to the addition of the calcium ionophore A23187 and arachidonic acid led to similar amounts of leukotriene B4 as were formed by sonicated cells. In contrast, the glutathione synthesis inhibitor buthionine sulfoximine diminished the cellular level of glutathione by greater than 90% but did not influence the production of leukotriene B4 or 5-hydroxyeicosatetraenoic acid in intact cells. These results demonstrate that certain drugs affecting the redox status can stimulate the cryptic 5-lipoxygenase activity in intact lymphoblastoid B cells but that the mechanism of this activation is unclear and appears not to be directly related to intracellular glutathione levels.
+--------------------------------------------------------------------------------
+Title: Leukotriene B4 in the immune system.
+Abstract: Leukotriene (LT) B4 is a biologically active molecule derived from arachidonic acid via the 5-lipoxygenase pathway. It mediates certain inflammatory and immunological reactions. The role of LTB4 in the immune system has been questioned since lymphocytes have been regarded to lack the enzymes involved in LTB4 formation. This review focuses on the recently described biosynthesis of LTB4 in B-lymphocytes and the effects of this compound on lymphocyte functions.
+--------------------------------------------------------------------------------
+Title: Human B lymphocytes possess 5-lipoxygenase activity and convert arachidonic acid to leukotriene B4.
+Abstract: Incubation of cell sonicates from monoclonal B cells with arachidonic acid led to the formation of leukotriene (LT) B4 and 5-hydroxy-eicosatetraenoic acid (5-HETE). In contrast, stimulation of intact B cells with the calcium ionophore A23187 +/- arachidonic acid did not, under similar conditions, lead to formation of LTB4. The identification of these products was based on reverse phase- and straight phase-HPLC analysis, UV-spectroscopy and gas chromatography-mass spectrometry. Cell sonicates of highly enriched human tonsillar B lymphocytes also converted arachidonic acid to LTB4 and 5-HETE. Activation of these cells with B cell mitogen and cytokines for three days led to an upregulation of 5-lipoxygenase activity. This study provides evidence for the biosynthesis of LTB4 from arachidonic acid in B cell lines and in normal human tonsillar B lymphocytes.
+--------------------------------------------------------------------------------
+Title: Leukotriene A4 hydrolase in the human B-lymphocytic cell line Raji: indications of catalytically divergent forms of the enzyme.
+Abstract: Leukotriene A4 hydrolase was purified 1400-fold, with an approximate yield of 25%, to apparent homogeneity from the human B-lymphocytic cell line Raji. The purification included ammonium sulfate precipitations followed by anion exchange, hydrophobic interaction, and molecular exclusion fast protein liquid chromatography. Kinetic properties at 2 degrees C varied between different enzyme preparations. Two patterns were observed, one with a Km of about 12 microM and Vmax of about 1.1 mumol LTB4/mg protein/min which correlated well with the properties of the human leukocytic LTA4 hydrolase. In other enzyme preparations a higher catalytic activity was observed. These enzyme batches did not obey Michaelis-Menten kinetics but were compatible with a mixture of enzymatic species. Heat treatment (60 degrees C) led to a time-dependent decline in catalytic activity. However, certain enzyme preparations contained a subfraction of enzymatic activity which was more resistant to heat treatment, yielding a biphasic inactivation pattern. It is thus suggested, on the basis of the kinetic properties and the heat-inactivation pattern, that these enzyme preparations contained an addition form of LTA4 hydrolase.
+--------------------------------------------------------------------------------
+Title: Effects of monocyte-lymphocyte interaction on the synthesis of leukotriene B4.
+Abstract: Human monocytes in monolayers were challenged with the calcium ionophore A23187. Methanol trapping of the products in the cell-free supernatants, followed by analysis on HPLC and by ultraviolet spectroscopy, revealed the presence of two compounds, which exhibited a conjugated-triene spectrum and chromatographed with the compounds formed when synthetic leukotriene (LT) A4 was added to warm acidified methanol. Furthermore, addition of purified LTA4 hydrolase to the cell-free supernatant of monocytes, stimulated with the ionophore A23187, resulted in increased levels of LTB4. These results indicate that monocytes release LTA4 extracellularly after activation with the calcium ionophore. Incubation of monocytes together with monoclonal lymphocytic cells, of both B and T cell lineage, yielded increased levels of LTB4 whereas the non-enzymatic isomers of this compound, i.e. delta 6-trans-LTB4 and 12-epi-delta 6-trans-LTB4, declined. In addition, the sum of LTB4 and its non-enzymatically formed isomers increased in mixed cultures of monocytes and monoclonal lymphocytic cells as compared to monocytes alone. The present study indicates that activated monocytes release LTA4, which is converted into LTB4 by monoclonal lymphocytic cells. Furthermore, the increase of the total amounts of leukotrienes on incubation of monocytes with lymphocytic cells, suggests the presence of an additional mechanism leading to activation of the 5-lipoxygenase pathway in monocytes.
+--------------------------------------------------------------------------------
+Title: Leukotriene A4 hydrolase in the B-lymphocytic cell line Raji.
+Abstract: Abstract not available
+--------------------------------------------------------------------------------

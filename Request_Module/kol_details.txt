@@ -1,0 +1,35 @@
+PMID: 39787246
+Title: A long-ignored skeletal tissue filled with oil.
+Authors: Aguayo VH, Selleri L
+Journal: Science
+Publication Date: 2025 Jan 10
+Citations: 0
+--------------------------------------------------------------------------------
+PMID: 38895322
+Title: PBX1 and PBX3 transcription factors regulate SHH expression in the Frontonasal Ectodermal Zone through complementary mechanisms.
+Authors: Mok CH, Hu D, Losa M, Risolino M, Selleri L, Marcucio RS
+Journal: bioRxiv
+Publication Date: 2024 Jun 5
+Citations: 0
+--------------------------------------------------------------------------------
+PMID: 38601310
+Title: Genetic and molecular mechanisms underlying the parthenocarpic fruit mutation in tomato.
+Authors: Picarella ME, Ruiu F, Selleri L, Presa S, Mizzotti C, Masiero S, Colombo L, Soressi GP, Granell A, Mazzucato A
+Journal: Front Plant Sci
+Publication Date: 2024
+Citations: 0
+--------------------------------------------------------------------------------
+PMID: 38483448
+Title: A common cis-regulatory variant impacts normal-range and disease-associated human facial shape through regulation of PKDCC during chondrogenesis.
+Authors: Mohammed J, Arora N, Matthews HS, Hansen K, Bader M, Walsh S, Shaffer JR, Weinberg SM, Swigut T, Claes P, Selleri L, Wysocka J
+Journal: Elife
+Publication Date: 2024 Mar 14
+Citations: 0
+--------------------------------------------------------------------------------
+PMID: 37852970
+Title: Conserved enhancers control notochord expression of vertebrate Brachyury.
+Authors: Kemmler CL, Smolikova J, Moran HR, Mannion BJ, Knapp D, Lim F, Czarkwiani A, Hermosilla Aguayo V, Rapp V, Fitch OE, Bötschi S, Selleri L, Farley E, Braasch I, Yun M, Visel A, Osterwalder M, Mosimann C, Kozmik Z, Burger A
+Journal: Nat Commun
+Publication Date: 2023 Oct 18
+Citations: 0
+--------------------------------------------------------------------------------

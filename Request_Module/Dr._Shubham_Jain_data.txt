@@ -1,0 +1,19 @@
+KOL Name:
+Dr. Shubham Jain
+
+PubMed Data:
+  - {'title': 'Determinants of Short-term Mortality in Liver Cirrhosis with Acute Kidney Injury: A Prospective Observational Study.', 'pub_date': '2023 Apr', 'affiliation': 'Middle East J Dig Dis'}
+  - {'title': 'Characterization of Circulating Tumor Cells Using Imaging Flow Cytometry in Liver Disease Patients.', 'pub_date': '2023 Jul-Aug', 'affiliation': 'J Clin Exp Hepatol'}
+  - {'title': 'Efficacy of endoscopic over-the-scope clip fixation for preventing migration of self-expandable metal stents: a systematic review and meta-analysis.', 'pub_date': '2023 May', 'affiliation': 'Surg Endosc'}
+  - {'title': 'Pliable, Scalable, and Degradable Scaffolds with Varying Spatial Stiffness and Tunable Compressive Modulus Produced by Adopting a Modular Design Strategy at the Macrolevel.', 'pub_date': '2021 Oct 13', 'affiliation': 'ACS Polym Au'}
+  - {'title': 'Screening of Family Members of Nonalcoholic Fatty Liver Disease Patients can Detect Undiagnosed Nonalcoholic Fatty Liver Disease Among Them: Is There a Genetic Link?', 'pub_date': '2021 Jul-Aug', 'affiliation': 'J Clin Exp Hepatol'}
+
+Wikipedia Data:
+No Wikipedia page found.
+
+Google Scholar Data:
+{'name': 'SHUBHAM JAIN', 'affiliation': 'Research Scholar, SSBM', 'interests': ['Management', 'Sociology', 'Behavioral Science'], 'cited_by': 5185, 'publications': [{'title': 'Deep learning techniques for automatic MRI cardiac multi-structures segmentation and diagnosis: is the problem solved?', 'year': '2018'}, {'title': 'Computing in memory with spin-transfer torque magnetic RAM', 'year': '2017'}, {'title': '2D-3D fully convolutional neural networks for cardiac MR segmentation', 'year': '2017'}, {'title': 'Nanoscale topography on black titanium imparts multi-biofunctional properties for orthopedic applications', 'year': '2017'}, {'title': 'RxNN: A framework for evaluating deep neural networks on resistive crossbars', 'year': '2020'}]}
+
+Clinical Trials Data:
+Error fetching clinical trials data: 400 Client Error: Bad Request for url: https://clinicaltrials.gov/api/v2/studies?query=Dr.+Shubham+Jain&fields=BriefTitle%2CLeadSponsorName%2CCondition%2CPhase%2CEnrollmentCount&format=json
+
